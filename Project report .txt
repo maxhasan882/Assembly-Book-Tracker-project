@@ -1,0 +1,7 @@
+Introduction: This is a simple software to easily manage the books of a library.By this software anyone
+can find the book list and where thy are in real time.
+
+Objectives:
+.To track the books in the real time.
+.To acknowledge the user which books are stored in the library
+.To prevent missing books
